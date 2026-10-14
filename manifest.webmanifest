@@ -1,0 +1,9 @@
+{
+  "name": "Koperasi Cahaya Bintang",
+  "short_name": "KCB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1d4ed8",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
